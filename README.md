@@ -1,4 +1,4 @@
-# PROJETO DE SELEÇÃO DESENVOLVIMENTO
+# PROJETO DE SELEÇÃO - DESENVOLVIMENTO
 
 ![Software Development GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
