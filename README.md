@@ -56,3 +56,11 @@ A seguir seguem algumas ideias de projetos que você pode implementar:
 
 1. Criei um repositório público no github;
 2. Nos envie o link do repositório por email;
+
+&nbsp;
+
+---
+
+🤝 Inspiração e agradecimentos à **Magrathea Labs**.
+
+Feito com ❤️ pelo **Grupo Euax**
