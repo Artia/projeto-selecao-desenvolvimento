@@ -24,15 +24,15 @@ Na revisão do seu código vamos nos atentar aos seguintes itens:
 * Uso correto dos verbos HTTP e códigos de status apropriados, caso se aplique;
 * Uso adequado de HTML5, CSS3 e JavaScript em um front-end minimamente estruturado (O front pecisa ser funcional, não se preocupe com estética);
 * Uso adequado de versionamento do código com git;
-* Uso de testes automatizados;
 
 O que será um grande diferencial para você:
 
 * Deploy da aplicação;
 * Uso de Docker;
-* Uso de API ou GraphQL;
+* Uso de API RESTful ou GraphQL;
 * Criação de um front-end SPA;
-* Criação de prototipação e diagramas para validação do projeto, no pré-desenvolvimento.
+* Criação de prototipação e diagramas para validação do projeto, no pré-desenvolvimento;
+* Uso de testes unitários.
 
 &nbsp;
 
