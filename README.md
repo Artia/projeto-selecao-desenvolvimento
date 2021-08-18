@@ -42,21 +42,13 @@ Respeite o seu nível de conhecimento e experiência, o importante é você sabe
 
 &nbsp;
 
-<!-- 
-
-TODO: Adicionar ideias
-
 ## IDEIAS DE PROJETOS
 
 A seguir seguem algumas ideias de projetos que você pode implementar:
 
-* Ideia 1
-* Ideia 2
-* Ideia 3
+* [Gerenciador de Projetos e Atividades](https://github.com/Artia/desafios-desevolvimento/blob/master/desafio-fullstack.md)
 
 &nbsp;
-
--->
 
 **Caso você tenha algum projeto que já está pronto e que cumpra com os requisitos, você pode compartilhar ele com a gente e não precisa desenvolver um novo!**
 
