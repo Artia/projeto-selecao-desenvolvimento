@@ -17,7 +17,7 @@ Queremos avaliar sua capacidade de fornecer um produto simples com documentaçã
 
 Na revisão do seu código vamos nos atentar aos seguintes itens:
 
-* Documentação (README.md) com instruções claras para reproduzir o projeto;
+* Documentação (README.md) explicando o seu projeto e com instruções claras para reproduzi-lo;
 * Organização do código;
 * Código bem escrito, limpo e coeso;
 * Arquitetura e princípios de desenvolvimento;
