@@ -22,7 +22,7 @@ Na revisão do seu código vamos nos atentar aos seguintes itens:
 * Código bem escrito, limpo e coeso;
 * Arquitetura e princípios de desenvolvimento;
 * Uso correto dos verbos HTTP e códigos de status apropriados, caso se aplique;
-* Uso adequado de HTML5, CSS3 e JavaScript em um front-end minimamente estruturado (O front pecisa ser funcional, não se preocupe com estética);
+* Uso adequado de HTML5, CSS3 e JavaScript em um front-end minimamente estruturado (O front precisa ser funcional, não se preocupe com estética);
 * Uso adequado de versionamento do código com git;
 
 O que será um grande diferencial para você:
