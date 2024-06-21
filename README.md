@@ -56,13 +56,11 @@ A seguir seguem algumas ideias de projetos que você pode implementar:
 
 ## COMO COMPARTILHAR O PROJETO CONOSCO
 
-1. Criei um repositório público no github;
+1. Crie um repositório público no github;
 2. Nos envie o link do repositório via email;
 
 &nbsp;
 
 ---
-
-🤝 Inspiração e agradecimentos à **Magrathea Labs**.
 
 Feito com ❤️ pelo **Grupo Euax**
